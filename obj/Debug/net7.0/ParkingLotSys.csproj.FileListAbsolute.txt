@@ -1,0 +1,14 @@
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\bin\Debug\net7.0\ParkingLotSys.exe
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\bin\Debug\net7.0\ParkingLotSys.deps.json
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\bin\Debug\net7.0\ParkingLotSys.runtimeconfig.json
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\bin\Debug\net7.0\ParkingLotSys.dll
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\bin\Debug\net7.0\ParkingLotSys.pdb
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ParkingLotSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ParkingLotSys.AssemblyInfoInputs.cache
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ParkingLotSys.AssemblyInfo.cs
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ParkingLotSys.csproj.CoreCompileInputs.cache
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ParkingLotSys.dll
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\refint\ParkingLotSys.dll
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ParkingLotSys.pdb
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ParkingLotSys.genruntimeconfig.cache
+C:\Users\WEBGLOBAL87\Documents\vscode\ParkingLotSys\obj\Debug\net7.0\ref\ParkingLotSys.dll
