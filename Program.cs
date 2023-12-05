@@ -33,5 +33,13 @@ while (true){
         Console.WriteLine("Finalizando o programa :)");
         break;
     }
+    else if (acao == "5")
+    {
+        Console.WriteLine("Informa quantas horas o veículo se manteve no estacionamento:");
+        string horasstr = Console.ReadLine();
+        int horas = int.Parse(horasstr);
+        estacionamento.CalcularPrecoFinal(horas);
+        
+    }
 }
 
