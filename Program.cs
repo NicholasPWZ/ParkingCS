@@ -10,7 +10,7 @@ double precoHora = Double.Parse(precoHorastr);
 Estacionamento estacionamento = new Estacionamento(precoBase, precoHora);
 estacionamento.carros = new List<string>();
 while (true){
-    Console.WriteLine("Selecione a sua próxima ação:\n1 - Adicionar carro\n2 - Remover carro\n3 - Listar carros\n4 - Encerrar programa");
+    Console.WriteLine("Selecione a sua próxima ação:\n1 - Adicionar carro\n2 - Remover carro\n3 - Listar carros\n4 - Encerrar programa\n5 - Calcular valor final");
     string? acao = Console.ReadLine();
     if (acao == "1")
     {
@@ -35,11 +35,11 @@ while (true){
     }
     else if (acao == "5")
     {
-        Console.WriteLine("Informa quantas horas o veículo se manteve no estacionamento:");
+        Console.WriteLine("Informe quantas horas o veículo se manteve no estacionamento:");
         string horasstr = Console.ReadLine();
-        int horas = int.Parse(horasstr);
+        double horas = Double.Parse(horasstr);
         estacionamento.CalcularPrecoFinal(horas);
-        
+
     }
 }
 
